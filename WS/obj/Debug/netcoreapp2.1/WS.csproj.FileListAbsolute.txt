@@ -1,0 +1,32 @@
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.deps.json
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.runtimeconfig.json
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.runtimeconfig.dev.json
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.dll
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.csprojAssemblyReference.cache
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.csproj.CoreCompileInputs.cache
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorAssemblyInfo.cache
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorAssemblyInfo.cs
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.AssemblyInfoInputs.cache
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.AssemblyInfo.cs
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorTargetAssemblyInfo.cache
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.pdb
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.dll
+C:\Users\fabio.paula\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.pdb
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.deps.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.runtimeconfig.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.runtimeconfig.dev.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.dll
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\WS.pdb
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorAssemblyInfo.cache
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorAssemblyInfo.cs
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.AssemblyInfoInputs.cache
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.AssemblyInfo.cs
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.RazorTargetAssemblyInfo.cache
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.dll
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.pdb
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.csprojAssemblyReference.cache
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Fabio Silva\Documents\Visual Studio 2017\Projects\WS\WS\obj\Debug\netcoreapp2.1\WS.genruntimeconfig.cache
