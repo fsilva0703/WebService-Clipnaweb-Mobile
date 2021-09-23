@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Recursos\" />
+    <Folder Include="Sistemas\" />
+    <Folder Include="Usuarios\" />
+    <Folder Include="Setores\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlterDataVotador.Domain\AlterDataVotador.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
